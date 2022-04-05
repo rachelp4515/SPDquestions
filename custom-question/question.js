@@ -1,3 +1,9 @@
+
+// UNFINISHED - NO PSEUDO CODE
+
+
+
+
 // create all possible combinations based off a list of characters and a length
 // *comninations* not *permutations*, so [1,2,3] and [2,1,3] are the same 
 
